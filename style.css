@@ -64,3 +64,16 @@ button
     font-size: 20px;
     color: #ff85c0;
 }
+
+@media (max-width: 800px)
+{
+    .container
+    {
+        width: 60%;
+    }
+    h2 
+    {
+        font-size: 20px;
+    }
+    
+}
